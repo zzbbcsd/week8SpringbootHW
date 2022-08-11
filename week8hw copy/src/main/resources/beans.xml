@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+
+    <bean id="Address" class="com.week8assignment.week8hw.address.Address">
+
+    </bean>
+
+    <bean id="Phone" class="com.week8assignment.week8hw.phone.Phone">
+
+    </bean>
+<bean id="Student" class="com.week8assignment.week8hw.student.Student">
+
+</bean>
+
+</beans>
